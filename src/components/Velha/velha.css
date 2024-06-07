@@ -1,0 +1,10 @@
+.buttonGame {
+    background-color: #85e6c0;
+    margin: 10px;
+    border: 0px;
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    font-size: 30px;
+    color: #daf3ea;
+}
