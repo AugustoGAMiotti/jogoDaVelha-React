@@ -1,4 +1,18 @@
-.buttonGame {
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#game {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #daf3ea;
+    border-radius: 5px;
+}
+
+.buttonBoard {
     background-color: #85e6c0;
     margin: 10px;
     border: 0px;
